@@ -1,6 +1,6 @@
 # ¡Hola! Soy Berta 👋
 
-**Farmacéutica y divulgadora científica.** Este curso empiezo un máster en industria farmacéutica y busco mi primer paso en una **biotech** o una **big pharma**.
+**Bióloga y divulgadora científica.** Este curso empiezo un máster en industria farmacéutica y busco mi primer paso en una **biotech** o una **big pharma**.
 
 🌐 **Mi carta de presentación:** [bertamunoz02.github.io](https://bertamunoz02.github.io/)
 
