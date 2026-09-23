@@ -1,14 +1,14 @@
 # ¡Hola! Soy Berta 👋
 
-**Bióloga y divulgadora científica.** Este curso empiezo un máster en industria farmacéutica y busco mi primer paso en una **biotech** o una **big pharma**.
+**Bióloga, divulgadora científica y futura profesional de la investigación clínica.** Estoy cursando el Máster de Acceso a Industria Farmacéutica y Biotecnológica (FarmaLeaders) y busco mi primer paso en la industria farmacéutica o biotech.
 
 🌐 **Mi carta de presentación:** [bertamunoz02.github.io](https://bertamunoz02.github.io/)
 
 ## Qué me mueve
 
-- 💊 Entender cómo funciona un fármaco y explicarlo para que cualquiera lo entienda.
-- 🎥 Divulgo sobre farmacia, salud y ciencia en redes desde 2023.
-- 🧬 Me interesan Medical Affairs, Regulatory Affairs, Market Access y la I+D en biotech.
+- 🔬 Llevar la ciencia del laboratorio al paciente: de la evidencia a un impacto real.
+- 💊 Investigación clínica y ensayos clínicos, mi principal interés. También Medical Affairs y la innovación biomédica.
+- 🎥 Comunicar ciencia con rigor y que se entienda: en 2024 fundé Con B de Biología.
 
 ## Dónde encontrarme
 
@@ -16,4 +16,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@bertamunoz__02-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/bertamunoz_02/)
 [![TikTok](https://img.shields.io/badge/TikTok-@bertamunoz__02-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@bertamunoz_02)
 
-📬 Abierta a prácticas y primer empleo en el sector farmacéutico. Escríbeme por LinkedIn.
+📬 Abierta a prácticas y primer empleo en investigación clínica, industria farmacéutica y biotech. Escríbeme por LinkedIn.
